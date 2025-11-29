@@ -8,8 +8,8 @@ This repository contains the research materials (final report and poster) for th
 Our work investigates the dynamical properties of the **Promotion Algorithm** on finite partially ordered sets (posets), focusing on the combinatorial structure of "Tangled Labelings."
 
 ## 📂 Files
-* **[`report.pdf`](./report.pdf)**: The comprehensive technical report detailing definitions, proofs, and the demotion algorithm.
-* **[`poster.pdf`](./poster.pdf)**: The research poster presented at the MXM end-of-semester visualization symposium.
+* **[`MXM_2023.pdf`](./MXM_2023.pdf)**: The comprehensive technical report detailing definitions, proofs, and the demotion algorithm.
+* **[`MXM_Fall_2023_Posets__Copy_.pdf`](./MXM_Fall_2023_Posets__Copy_.pdf)**: The research poster presented at the MXM end-of-semester visualization symposium.
 
 ## 🧮 Research Summary
 **Background:** The **Promotion Algorithm** ($\partial$) is a bijection on the set of linear extensions (labelings) of a poset. It is known that repeatedly applying promotion eventually transforms any labeling into a "natural labeling" (linear extension consistent with the poset order).
