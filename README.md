@@ -20,7 +20,7 @@ Our work investigates the dynamical properties of the **Promotion Algorithm** on
 * **Inverse Analysis (Demotion):** Developed and formalized **"Demotion Algorithms"** ($\partial^{-1}$, including "Cold" and "Maximal" variants) to generate preimages of natural labelings and systematically find tangled labelings.
 * **Theoretical Bounds:** Proved that for any poset with a unique minimal element, the number of tangled labelings is exactly $(n-1)!$.
 * **Ambidextrous Labelings:** Introduced the concept of "Ambidextrous Labelings" to analyze posets with two minimal elements.
-* **Computational Verification:** Implemented the promotion/demotion algorithms in Python/C++ to simulate orbit structures and verify conjectures for small $n$.
+* **Computational Verification:** Implemented the promotion/demotion algorithms in Python to simulate orbit structures and verify conjectures for small $n$.
 
 ## 👥 Contributors
 * **Lejun Xu**
